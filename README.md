@@ -8,11 +8,6 @@ Credits to Alan Zuconni for most of the intro to the mathematical background as 
 
 Some other credits for the art used as seen in the report file 3DOFResearch.pdf
 
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
 | Asset Name | Credit |
 | ------ | ------ |
 | Mannequin | Epic Games |
